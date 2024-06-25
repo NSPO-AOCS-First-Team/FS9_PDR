@@ -1,0 +1,5 @@
+FIY
+
+sun_vect         = dss_eqpt(3:5,:);
+sun_presence_y   = dss_eqpt(6,:);
+y_axis_angle_ans = dss_func(3,:);
